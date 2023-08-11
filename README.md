@@ -1,7 +1,7 @@
 [![MasterHead](https://www.futureskillsprime.in/sites/default/files/2023-01/Desktop%20Masthead_1920x476_Designing%20and%20Implementing%20an%20Azure%20AI%20solution_0.jpg)](https://kiiran7781.io)
-<h1 align="center">Hi 👋, I'm Kiran K</h1>
+<h1 align="center">Hi, I'm Kiran K</h1>
 <h3 align="center">A passionate data scientist</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiiran7781&label=Profile%20views&color=0e75b6&style=flat" alt="kiiran7781" /> </p>
 
