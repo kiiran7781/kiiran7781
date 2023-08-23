@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiiran7781&label=Profile%20views&color=0e75b6&style=flat" alt="kiiran7781" /> </p>
 
-- 🔭 I’m currently working on **Travel package prediction**
+- 🔭 I’m currently working on **INeuron internship**
 
 - 📫 How to reach me **kiiran158@gmail.com**
 
